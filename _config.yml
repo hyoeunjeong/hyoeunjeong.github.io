@@ -17,8 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "효은이의 개발성장기"
 title_separator          : "-"
+tab_title                : "hyoeun's 개발 성장기"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "An amazing website."
@@ -113,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "hyoeun.jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "순천향대 전자정보공학과 재학~"
+  location         : "South Korea"
+  email            : "jhe0316@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
