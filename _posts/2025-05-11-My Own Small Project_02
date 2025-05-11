@@ -83,3 +83,5 @@ while True :
 #한줄평 
 
 - 랜덤으로 하나 씩 출력 하려면  import random을 사용해야 한다.
+
+- https://docs.python.org/ko/3.13/library/random.html# 
