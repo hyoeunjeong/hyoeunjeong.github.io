@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "효은이의 개발성장기"
+title                    : "hy03n3"
 title_separator          : "-"
-tab_title                : "hyoeun's 개발 성장기"
+tab_title                : "hyoeun's "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "An amazing website."
