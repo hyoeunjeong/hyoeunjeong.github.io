@@ -132,19 +132,6 @@ class PostUpdateView(LoginRequiredMixin, UpdateView):
 
 ---
 
-## 🧾 7. form_valid 오버라이딩으로 커스터마이징도 가능
-
-```python
-class PostCreateView(CreateView):
-    def form_valid(self, form):
-        form.instance.author = self.request.user
-        return super().form_valid(form)
-```
-
-이렇게 커스터마이징을 해도 전체 구조가 무너지지 않고 깔끔하게 유지 가능
-
----
-
 ## ✅ 결론: “정답은 없다, 상황에 따라 알아서 잘 쓰자”
 
 | 상황                          | 추천 구조 |
