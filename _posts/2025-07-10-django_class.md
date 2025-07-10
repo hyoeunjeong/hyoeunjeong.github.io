@@ -74,7 +74,7 @@ class PostCreateView(CreateView):
 
 ---
 
-## 🧠 4. 
+## 🧠 4. 실제 사용 예시
 
 #### ✅ FBV 방식
 
